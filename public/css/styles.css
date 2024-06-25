@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.calculator {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.calculator h2 {
+  text-align: center;
+}
+.calculator input, .calculator button, .calculator select {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+.calculator input {
+  width: 92%;
+}
+.calculator select, .calculator button {
+  width: 100%;
+}
+.calculator .result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
